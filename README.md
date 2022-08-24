@@ -46,7 +46,7 @@ Used as '/token' to reveal your Discord Token. NEVER USE THIS AS **'/token send:
 
 ### User Details 
   
-Reveals the details of users in the user "[Profile Popup]([https://imgur.com/](https://imgur.com/OjDZskx)" which includes creation date, server join date and last message date which all include the time too.
+Reveals the details of users in the user "[Profile Popup](https://imgur.com/OjDZskx)" which includes creation date, server join date and last message date which all include the time too.
 
 
 ### View Profile Images 
@@ -56,4 +56,4 @@ View the profile picture of any user by pressing on their profile picture in the
 
 ### Waifu.im 
 
-Uses the **[waifu.im](https://waifu.im) api** to get waifu pics. Optional tags include *tags, nsfw and send*. Select the tags with the 'tags' tag, 'is_nsfw' later with true or false to select the rating of the pics and finaly 'send' tag with true or false parameter to either send the in the chat or look at them privately. 
+Uses the [waifu.im api](https://waifu.im) to get waifu pics. Optional tags include *tags, nsfw and send*. Select the tags with the 'tags' tag, 'is_nsfw' later with true or false to select the rating of the pics and finaly 'send' tag with true or false parameter to either send the in the chat or look at them privately. 
